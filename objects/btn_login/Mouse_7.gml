@@ -1,0 +1,1 @@
+show_message("username: " + txt_username.text + " Password: " + txt_password.text)

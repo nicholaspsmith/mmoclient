@@ -1,4 +1,5 @@
-// Deal with incoming data
+/// @description Handle incoming data
+
 switch(async_load[? "type"]) {
 	case network_type_data: 
 		buffer_copy(async_load[? "buffer"], 0, async_load[? "size"], savedBuffer, buffer_tell(savedBuffer))

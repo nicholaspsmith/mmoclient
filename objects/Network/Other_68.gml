@@ -1,9 +1,11 @@
 /// @description Handle incoming data
 
 switch(async_load[? "type"]) {
+	
 	case network_type_data: 
 		buffer_copy(async_load[? "buffer"], 0, async_load[? "size"], savedBuffer, buffer_tell(savedBuffer))
 		buffer_seek(savedBuffer, buffer_seek_relative, async_load[? "size"] + 1)
+		
 		while (true) {
 			var size = buffer_peek(savedBuffer, reading, buffer_u8)
 			if (buffer_get_size(savedBuffer) >= reading + size) {
@@ -26,4 +28,3 @@ switch(async_load[? "type"]) {
 		}
 		break;
 }
-//https://www.youtube.com/watch?v=QimNs1eJwDY&list=PL_4rJ_acBNMFgWZf-MMBbFtrKnehwFWOe&index=7

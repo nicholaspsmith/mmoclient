@@ -77,6 +77,25 @@
             }
         },
         {
+            "Key": "040f5e4d-ee9d-4092-972d-af6962a5f5a5",
+            "Value": {
+                "id": "366da1d1-bb13-490e-8086-525f7841eb45",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/MeanBear_left\/MeanBear_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0489a748-5b28-42dd-a1c1-7b9770a03fbb",
             "Value": {
                 "id": "96522510-773b-4ed3-944c-872e6b7fef8e",
@@ -243,7 +262,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/MeanBear\/MeanBear.yy",
+                "resourcePath": "sprites\/MeanBear_right\/MeanBear_right.yy",
                 "resourceType": "GMSprite"
             }
         },

@@ -1,0 +1,2 @@
+Converting GML script: ${project_dir}/scripts/socket_get_queue/socket_get_queue.gml
+Converted description /// @description  socket_get_queue()

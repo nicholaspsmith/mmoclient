@@ -324,6 +324,25 @@
             }
         },
         {
+            "Key": "1900ce3e-affb-4181-8d4d-f051bdcc4549",
+            "Value": {
+                "id": "eaa6014c-65ab-422d-9b8f-723cf1c1b2ae",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/register_fail\/register_fail.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1f47e43a-6584-487c-9c46-b1a8e929f919",
             "Value": {
                 "id": "c7eaa6cd-97fe-4345-9237-fa1ef3fef580",
@@ -571,6 +590,44 @@
             }
         },
         {
+            "Key": "493fdb4f-8494-425e-9604-45454e04fec0",
+            "Value": {
+                "id": "5914afe7-dcb9-490c-babe-67f67411ab12",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/login_ready\/login_ready.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4a472f65-005c-47b5-9b29-016d6dd0b961",
+            "Value": {
+                "id": "dca9f592-4bf4-4dd2-bed3-0e4bb924d87c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/register_success\/register_success.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4d4ef8e7-f462-48a6-aaf5-3e2b21a5e37b",
             "Value": {
                 "id": "68186f05-5d00-4519-acbd-1067a6082bee",
@@ -815,25 +872,6 @@
                 ],
                 "resourcePath": "objects\/ui_base\/ui_base.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "6c989f60-4c1b-497d-bd40-b32e4af840f1",
-            "Value": {
-                "id": "f281479d-ad68-4e9e-b67e-7f1f28626ddf",
-                "modelName": "GMResourceInfo",
-                "mvc": "1.0",
-                "configDeltaFiles": [
-                    
-                ],
-                "configDeltas": [
-                    
-                ],
-                "resourceCreationConfigs": [
-                    "default"
-                ],
-                "resourcePath": "scripts\/network_write\/network_write.yy",
-                "resourceType": "GMScript"
             }
         },
         {
@@ -1141,6 +1179,25 @@
             }
         },
         {
+            "Key": "beb7e6ed-dfae-4b11-a45a-5420b927acab",
+            "Value": {
+                "id": "84668243-047f-4675-bae0-f3f8a6a9f3d4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/login_fail\/login_fail.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c2c95a9b-ea4e-476d-87be-0c479b49a0e5",
             "Value": {
                 "id": "24724188-19ae-4315-8c72-978daa242840",
@@ -1309,6 +1366,25 @@
                 ],
                 "resourcePath": "views\/dbe8b2da-ae9e-453b-ae01-d09e1226e62d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e33733ff-08b2-451e-9e8c-dcd386ff4c28",
+            "Value": {
+                "id": "b0f9d218-fcc9-4b5f-a840-717b03e1b12d",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "scripts\/login_success\/login_success.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -1504,8 +1580,12 @@
     ],
     "script_order": [
         "5ceb7c99-9861-4049-a8d2-767d59fe3f9d",
-        "6c989f60-4c1b-497d-bd40-b32e4af840f1",
         "95a1a3f5-7106-4ecb-a5e3-b07bbdf15ebb",
+        "1900ce3e-affb-4181-8d4d-f051bdcc4549",
+        "4a472f65-005c-47b5-9b29-016d6dd0b961",
+        "493fdb4f-8494-425e-9604-45454e04fec0",
+        "beb7e6ed-dfae-4b11-a45a-5420b927acab",
+        "e33733ff-08b2-451e-9e8c-dcd386ff4c28",
         "446abf11-ba2d-41c5-9f65-65dcd1d50d38",
         "663bb677-0f81-4cf9-a2e6-c48041f6213e"
     ],

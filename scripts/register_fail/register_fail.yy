@@ -1,8 +1,8 @@
 {
-    "id": "6c989f60-4c1b-497d-bd40-b32e4af840f1",
+    "id": "1900ce3e-affb-4181-8d4d-f051bdcc4549",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "network_write",
+    "name": "register_fail",
     "IsCompatibility": false,
     "IsDnD": false
 }

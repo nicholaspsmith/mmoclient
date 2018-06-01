@@ -5,7 +5,7 @@ if focused {
 }
 
 if string_length(text) > 0 or focused {
-	draw_text(x+5, y+5, string(text))	
+	draw_text_color(x+7, y+9, string(text), c_white, c_white, c_white, c_white, 1)	
 } else {
-	draw_text(x+5, y+5, placeholder)
+	draw_text_color(x+7, y+9, placeholder, c_white, c_white, c_white, c_white, 1)	
 }

@@ -4,4 +4,4 @@ if hover {
 	draw_self()
 }
 
-draw_text(x+5, y+5, text)
+draw_text_color(x+7, y+9, text, c_white, c_white, c_white, c_white, 1)
